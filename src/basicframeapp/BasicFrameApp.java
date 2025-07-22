@@ -4,6 +4,7 @@
  */
 package basicframeapp;
 
+import java.awt.Color;
 import za.ac.tut.ui.MyFirstFrame;
 
 /**
@@ -20,6 +21,8 @@ public class BasicFrameApp {
         MyFirstFrame mff;
         
         mff = new MyFirstFrame();
+        
+        mff.setTitle("git changes");
     }
     
 }
