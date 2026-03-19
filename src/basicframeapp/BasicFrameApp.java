@@ -23,6 +23,8 @@ public class BasicFrameApp {
         mff = new MyFirstFrame();
         
         mff.setTitle("git changes");
+        
+        System.out.println("hello");
     }
     
 }
